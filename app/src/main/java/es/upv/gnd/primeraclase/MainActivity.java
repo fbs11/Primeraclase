@@ -25,5 +25,6 @@ public class MainActivity extends AppCompatActivity { //clase siempre publica pa
         texto.setText("Hello, Android");
         texto.setTextColor(Color.RED); //color de las letras
         setContentView(texto);
+        System.out.printl("yooooooooo");
     }
 }
